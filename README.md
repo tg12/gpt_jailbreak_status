@@ -10,4 +10,8 @@ If you're feeling generous and want to support my work, consider buying me a col
 
 And don't worry, if you prefer to donate in a different cryptocurrency, just let me know and I'll set up a wallet for that too. Thank you for your support and cheers to a great collaboration!
 
+You asked, I delivered. HTML version is hosted here. 
+
+http://www.jamessawyer.co.uk/pub/gpt_jb.html
+
 **Twitter: @James12396379**
