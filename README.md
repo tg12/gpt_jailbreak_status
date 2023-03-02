@@ -1,19 +1,19 @@
-# gpt_jailbreak_status
-This is a repository that aims to provide updates on the status of jailbreaking the OpenAI GPT language model.
+# Welcome to our GPT Jailbreak Status repository! We are committed to providing you with timely updates on the status of jailbreaking the OpenAI GPT language model.
 
+We are passionate about this project and would love your support. If you're feeling generous and want to keep me motivated, consider buying us a cold one! Your contribution means the world to me and will help us continue this important work.
 
-If you're feeling generous and want to support my work, consider buying me a cold one. Your donation will go a long way in keeping me motivated.
+# BTC Address: 3QjWqhQbHdHgWeYHTpmorP8Pe1wgDjJy54
 
-**BTC Address: 3QjWqhQbHdHgWeYHTpmorP8Pe1wgDjJy54**
+# ETH Address: 0x01d23570c34A78380452A4BE9C95bAe439719bAf
 
-**ETH Address: 0x01d23570c34A78380452A4BE9C95bAe439719bAf**
-
-And don't worry, if you prefer to donate in a different cryptocurrency, just let me know and I'll set up a wallet for that too. Thank you for your support and cheers to a great collaboration!
-
-You asked, I delivered. HTML version is hosted here. 
+I did listen to your feedback and we're excited to announce that I've added an HTML version, which you can find here:
 
 http://www.jamessawyer.co.uk/pub/gpt_jb.html
 
-**Twitter: @James12396379**
+# You can also follow me on Twitter at @James12396379 to stay up-to-date on the latest developments.
 
-[Collaborate for change.](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=EV8XUGXX76UXQ&source=url)
+Join us in collaborating for change and make a donation through PayPal here:
+
+[Paypal]https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=EV8XUGXX76UXQ&source=url
+
+Thank you for your support and together, let's unlock the full potential of the OpenAI GPT language model!
