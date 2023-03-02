@@ -1,4 +1,6 @@
-# Welcome to our GPT Jailbreak Status repository! We are committed to providing you with timely updates on the status of jailbreaking the OpenAI GPT language model.
+# Welcome to our GPT Jailbreak Status repository! 
+
+We are committed to providing you with timely updates on the status of jailbreaking the OpenAI GPT language model.
 
 I did listen to your feedback and I am excited to announce that I've added an HTML version, which you can find here:
 
