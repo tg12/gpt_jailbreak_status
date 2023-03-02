@@ -4,7 +4,7 @@ We are committed to providing you with timely updates on the status of jailbreak
 
 I did listen to your feedback and I am excited to announce that I've added an HTML version, which you can find here:
 
-http://www.jamessawyer.co.uk/pub/gpt_jb.html
+[Online HTML Version](http://www.jamessawyer.co.uk/pub/gpt_jb.html)
 
 You can also follow me on Twitter at to stay up-to-date on the latest developments.
 
