@@ -12,7 +12,7 @@ You can also follow me on Twitter at to stay up-to-date on the latest developmen
 
 Join us in collaborating for change and make a donation through PayPal here:
 
-[Paypal]https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=EV8XUGXX76UXQ&source=url
+[Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=EV8XUGXX76UXQ&source=url)
 
 We are passionate about this project and would love your support. If you're feeling generous and want to keep me motivated, consider buying us a cold one! Your contribution means the world to me and will help us continue this important work.
 
