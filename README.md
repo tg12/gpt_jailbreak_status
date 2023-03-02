@@ -2,15 +2,15 @@
 
 We are passionate about this project and would love your support. If you're feeling generous and want to keep me motivated, consider buying us a cold one! Your contribution means the world to me and will help us continue this important work.
 
-# BTC Address: 3QjWqhQbHdHgWeYHTpmorP8Pe1wgDjJy54
+## BTC Address: 3QjWqhQbHdHgWeYHTpmorP8Pe1wgDjJy54
 
-# ETH Address: 0x01d23570c34A78380452A4BE9C95bAe439719bAf
+## ETH Address: 0x01d23570c34A78380452A4BE9C95bAe439719bAf
 
 I did listen to your feedback and we're excited to announce that I've added an HTML version, which you can find here:
 
 http://www.jamessawyer.co.uk/pub/gpt_jb.html
 
-# You can also follow me on Twitter at @James12396379 to stay up-to-date on the latest developments.
+## You can also follow me on Twitter at @James12396379 to stay up-to-date on the latest developments.
 
 Join us in collaborating for change and make a donation through PayPal here:
 
