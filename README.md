@@ -6,7 +6,8 @@ I did listen to your feedback and I am excited to announce that I've added an HT
 
 [Online HTML Version](http://www.jamessawyer.co.uk/pub/gpt_jb.html)
 
-[Revolutionizing AI Interactions: Unlock the Potential of Prompt Engineering!(http://www.jamessawyer.co.uk/pub/Prompt1.pdf)
+
+[Revolutionizing AI Interactions: Unlock the Potential of Prompt Engineering!](http://www.jamessawyer.co.uk/pub/Prompt1.pdf)
 
 You can also follow me on Twitter at to stay up-to-date on the latest developments.
 
