@@ -26,3 +26,13 @@ We are passionate about this project and would love your support. If you're feel
 ### ETH Address: 0x01d23570c34A78380452A4BE9C95bAe439719bAf
 
 Thank you for your support and together, let's unlock the full potential of the OpenAI GPT language model!
+
+## Support
+
+If you find this project useful, consider supporting it:
+
+| Currency | Address |
+|----------|---------|
+| **Bitcoin (BTC)** | `3QjWqhQbHdHgWeYHTpmorP8Pe1wgDjJy54` |
+| **Ethereum (ETH)** | `0x5851e6145F4773d1585b8686095FB16E368a4dA1` |
+| **ZCash (ZEC)** | `t1KSR5YkNPbjqRSCoLKo5AddFWdm9Kzxh1B` |
